@@ -5,4 +5,4 @@
 
 
 ##논문
-:herb: [논문 ](https://github.com/Crush-on-IT/algorithm-study/blob/master/contents/sort.md)
+:herb: [논문 보기](https://github.com/sumin416/agrositterPurdue/blob/master/agrositter_final_report.docx)
